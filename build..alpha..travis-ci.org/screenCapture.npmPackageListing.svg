@@ -1,32 +1,32 @@
 <svg height="462" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="462" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 16:25:14 +0000    62095 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 16:25:14 +0000     3202 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 16:25:14 +0000     1080 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 16:25:14 +0000     3261 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 16:25:14 +0000     3421 bytes  lib/FormsyAutoComplete.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 16:25:14 +0000     2780 bytes  lib/FormsyCheckbox.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 16:25:14 +0000     3328 bytes  lib/FormsyDate.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 16:25:14 +0000      660 bytes  lib/FormsyRadio.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 16:25:14 +0000     4018 bytes  lib/FormsyRadioGroup.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 16:25:14 +0000     3237 bytes  lib/FormsySelect.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-21 16:25:14 +0000     7107 bytes  lib/FormsyText.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-21 16:25:14 +0000     2854 bytes  lib/FormsyTime.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-21 16:25:14 +0000     2724 bytes  lib/FormsyToggle.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-21 16:25:14 +0000     1852 bytes  lib/index.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-21 16:25:14 +0000      711 bytes  lib/utils.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-21 16:25:14 +0000     2480 bytes  package.json</tspan>
-<tspan x="10" y="282"> 16.  2017-04-21 16:25:14 +0000     2198 bytes  src/FormsyAutoComplete.jsx</tspan>
-<tspan x="10" y="298"> 17.  2017-04-21 16:25:14 +0000     1542 bytes  src/FormsyCheckbox.jsx</tspan>
-<tspan x="10" y="314"> 18.  2017-04-21 16:25:14 +0000     1905 bytes  src/FormsyDate.jsx</tspan>
-<tspan x="10" y="330"> 19.  2017-04-21 16:25:14 +0000      290 bytes  src/FormsyRadio.jsx</tspan>
-<tspan x="10" y="346"> 20.  2017-04-21 16:25:14 +0000     2478 bytes  src/FormsyRadioGroup.jsx</tspan>
-<tspan x="10" y="362"> 21.  2017-04-21 16:25:14 +0000     1926 bytes  src/FormsySelect.jsx</tspan>
-<tspan x="10" y="378"> 22.  2017-04-21 16:25:14 +0000     5052 bytes  src/FormsyText.jsx</tspan>
-<tspan x="10" y="394"> 23.  2017-04-21 16:25:14 +0000     1613 bytes  src/FormsyTime.jsx</tspan>
-<tspan x="10" y="410"> 24.  2017-04-21 16:25:14 +0000     1497 bytes  src/FormsyToggle.jsx</tspan>
-<tspan x="10" y="426"> 25.  2017-04-21 16:25:14 +0000      397 bytes  src/index.jsx</tspan>
-<tspan x="10" y="442"> 26.  2017-04-21 16:25:14 +0000      482 bytes  src/utils.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 16:26:16 +0000    62095 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 16:26:16 +0000     3202 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 16:26:16 +0000     1080 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 16:26:16 +0000     3261 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 16:26:16 +0000     3421 bytes  lib/FormsyAutoComplete.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 16:26:16 +0000     2780 bytes  lib/FormsyCheckbox.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 16:26:16 +0000     3328 bytes  lib/FormsyDate.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 16:26:16 +0000      660 bytes  lib/FormsyRadio.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 16:26:16 +0000     4018 bytes  lib/FormsyRadioGroup.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 16:26:16 +0000     3237 bytes  lib/FormsySelect.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 16:26:16 +0000     7107 bytes  lib/FormsyText.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 16:26:16 +0000     2854 bytes  lib/FormsyTime.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 16:26:16 +0000     2724 bytes  lib/FormsyToggle.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 16:26:16 +0000     1852 bytes  lib/index.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 16:26:16 +0000      711 bytes  lib/utils.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 16:26:16 +0000     2480 bytes  package.json</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 16:26:16 +0000     2198 bytes  src/FormsyAutoComplete.jsx</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 16:26:16 +0000     1542 bytes  src/FormsyCheckbox.jsx</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 16:26:16 +0000     1905 bytes  src/FormsyDate.jsx</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 16:26:16 +0000      290 bytes  src/FormsyRadio.jsx</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 16:26:16 +0000     2478 bytes  src/FormsyRadioGroup.jsx</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 16:26:16 +0000     1926 bytes  src/FormsySelect.jsx</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 16:26:16 +0000     5052 bytes  src/FormsyText.jsx</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 16:26:16 +0000     1613 bytes  src/FormsyTime.jsx</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 16:26:16 +0000     1497 bytes  src/FormsyToggle.jsx</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 16:26:16 +0000      397 bytes  src/index.jsx</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 16:26:16 +0000      482 bytes  src/utils.js</tspan>
 </text>
 </svg>
